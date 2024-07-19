@@ -1,0 +1,10 @@
+@media (min-width: 48em) {
+    body {
+        width: 100%;
+    }
+
+    #description {
+        width: 35em;
+        text-align: center;
+    }
+}
