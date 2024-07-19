@@ -1,9 +1,11 @@
-@media (min-width: 68em) {
+@media (min-width: 48em) {
     body {
         width: 100%;
     }
 
-    #description {
+    #description,
+    h1,
+    h2 {
         width: 35em;
         text-align: center;
 
