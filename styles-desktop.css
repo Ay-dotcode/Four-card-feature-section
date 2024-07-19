@@ -11,6 +11,11 @@
 
     }
 
+    h1,
+    h2 {
+        font-size: 2em;
+    }
+
     #cards {
         display: grid;
         width: 1070px;
